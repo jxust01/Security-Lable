@@ -1,0 +1,18 @@
+Currently using GPU: 0
+Creating dataset: mnist
+num_classes :  9
+train_directory :  /data/zlp/zx/dataset_9_preprocess/train
+valid_directory :  /data/zlp/zx/dataset_9_preprocess/val
+2700 2700
+==> Test
+class c1 accuracy is 100.0
+class c2 accuracy is 100.0
+class c3 accuracy is 100.0
+class c4 accuracy is 100.0
+class c5 accuracy is 100.0
+class c6 accuracy is 99.0
+class c7 accuracy is 100.0
+class c8 accuracy is 97.0
+class c9 accuracy is 100.0
+Accuracy (%): 99.55555725097656	 Error rate (%): 0.4444427490234375
+Finished. Total elapsed time (h:m:s): 0:00:11
